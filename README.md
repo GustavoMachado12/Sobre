@@ -7,5 +7,5 @@
 <a href=https://www.instagram.com/achoquesougustavo/>
   <img src="https://img.icons8.com/fluency/48/000000/instagram-new.png"/>
 </a>  
-&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
-<img src="https://img.icons8.com/color/48/000000/clr-goblin.png"/>
+</br></br>
+<image src="https://img.icons8.com/color/48/000000/clr-goblin.png"/>
